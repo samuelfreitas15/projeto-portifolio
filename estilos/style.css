@@ -261,6 +261,19 @@ footer a:hover {
 }
 
 @media screen and (min-width: 768px) {
+
+  main {
+
+  }
+
+  section#ficha {
+
+  }
+
+  section#detalhes {
+    
+  }
+
   #skill-container {
     grid-template-columns: 1fr 1fr;
   }
